@@ -3,7 +3,7 @@
   <ExtensionPackages>
     <ExtensionPackage 
       name="FTPResource"
-      packageVersion="0.0.1"
+      packageVersion="1.0.0"
       vendor="Gianpiero Di Blasi"
       description="Extension to manage basic FTP connections"
       minimumThingWorxVersion="8.3.0"
